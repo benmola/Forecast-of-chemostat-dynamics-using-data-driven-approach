@@ -22,3 +22,7 @@ approach best predicts the system trajectories compared to a
 local linearization methods.
 
 # Code
+
+The file named 'KoopmanChemostatModel.m' contains the main script for the work just run it and the results will show off. 
+Others are just functions used for the main code.
+
