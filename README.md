@@ -23,6 +23,8 @@ local linearization methods.
 
 # Code
 
+The code is an adaption/extension of the code associated with the paper "Linear predictors for nonlinear dynamical systems: Koopman operator meets model predictive control", Automatica 2018, by Milan Korda and Igor Mezic (available under: https://github.com/MilanKorda/KoopmanMPC).
+
 The file named 'KoopmanChemostatModel.m' contains the main script for the work just run it and the results will show off. 
 Others are just functions used for the main code.
 
